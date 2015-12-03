@@ -5,6 +5,22 @@
    <BuildAction
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "843399A71C110802008E90A7"
+               BuildableName = "Project4-HackingWithSwift.app"
+               BlueprintName = "Project4-HackingWithSwift"
+               ReferencedContainer = "container:Project4-HackingWithSwift.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
    </BuildAction>
    <TestAction
       buildConfiguration = "Debug"
@@ -12,7 +28,36 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "843399BB1C110802008E90A7"
+               BuildableName = "Project4-HackingWithSwiftTests.xctest"
+               BlueprintName = "Project4-HackingWithSwiftTests"
+               ReferencedContainer = "container:Project4-HackingWithSwift.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "843399C61C110802008E90A7"
+               BuildableName = "Project4-HackingWithSwiftUITests.xctest"
+               BlueprintName = "Project4-HackingWithSwiftUITests"
+               ReferencedContainer = "container:Project4-HackingWithSwift.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "843399A71C110802008E90A7"
+            BuildableName = "Project4-HackingWithSwift.app"
+            BlueprintName = "Project4-HackingWithSwift"
+            ReferencedContainer = "container:Project4-HackingWithSwift.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -26,6 +71,16 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "843399A71C110802008E90A7"
+            BuildableName = "Project4-HackingWithSwift.app"
+            BlueprintName = "Project4-HackingWithSwift"
+            ReferencedContainer = "container:Project4-HackingWithSwift.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -35,6 +90,16 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "843399A71C110802008E90A7"
+            BuildableName = "Project4-HackingWithSwift.app"
+            BlueprintName = "Project4-HackingWithSwift"
+            ReferencedContainer = "container:Project4-HackingWithSwift.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
